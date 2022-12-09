@@ -1,6 +1,6 @@
-<a href="https://github.com/ivipserv/AppCenter/releases/download/0.1/App.zip">Get it on PC</a>
+<a href="https://github.com/masterofphoenix/AppCenter/releases/download/0.1/Gamecenter.zip">Get it on PC</a>
 
 # AppCenter
-iVipServ Game AppCenter  Based on Angular JS
+WoG Game AppCenter  Based on Angular JS
 
-![Win10](https://upload.ivipserv.xyz/server/php/files/appcenter.png "Win10")
+![Win10](https://img.ge/images/88188439293338461597.png "Win10")
